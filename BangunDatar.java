@@ -9,7 +9,7 @@ public class BangunDatar {
     public static void main(String[] args) {
        int option;
        System.out.println("Luas Bangun Datar");
-       System.out.println("1. Perseg");
+       System.out.println("1. Persegi");
        obj.LuasPersegi();
        System.out.println("2. Persegi Panjang");
        obj.LuasPersegiPanjang();
